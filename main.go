@@ -17,9 +17,8 @@ func getInput() (amount float64, from string, to string) {
 	return amount, from, to
 }
 
-func convert() (amount float64, from string, to string) {
+func convert(amount float64, from string, to string) {
 
-	return result
 }
 
 func main() {
